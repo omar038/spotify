@@ -1,0 +1,5 @@
+*.csv filter=lfs diff=lfs merge=lfs -text
+.csv filter=lfs diff=lfs merge=lfs -text
+tracks.csv filter=lfs diff=lfs merge=lfs -text
+artists.csv filter=lfs diff=lfs merge=lfs -text
+SpotifyFeatures.csv filter=lfs diff=lfs merge=lfs -text
